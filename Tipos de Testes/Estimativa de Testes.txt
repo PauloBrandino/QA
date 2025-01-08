@@ -1,0 +1,3 @@
+Para criar uma estimativa para seus testes é preciso considerar fatores como a complexidade, domínio do software, detalhamento da documentação e quantidade de retrabalho;
+É importante metrificar a qualidade do sistema para saber em quais pontos acertamos em quais precisamos implementar melhorias;
+Existem métricas de qualidade como: total de Defeitos, total de defeitos em produção, total de defeitos removidos, tempo médio de reparo, quantidade de testes automatizados, cobertura de código e satisfação do usuário.
