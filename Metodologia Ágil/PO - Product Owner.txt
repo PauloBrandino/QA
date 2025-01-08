@@ -1,0 +1,7 @@
+Definição de Product Owner: "O Product Owner é responsável por maximizar o valor do produto resultante do trabalho do Time de Desenvolvimento."
+Responsabilidades do Product Owner: "O Product Owner é responsável por gerenciar o Backlog do Produto (ou pode delegar)."
+Interagindo com a Equipe de Desenvolvimento: "O Product Owner pode fazer o trabalho acima interagindo com a equipe de desenvolvimento de várias formas.”
+Tomada de Decisões: "As decisões do Product Owner são visíveis no conteúdo e na ordem do Backlog do Produto."
+Colaboração com Stakeholders: "O Product Owner pode trabalhar com um ou mais Stakeholders para entender suas necessidades e expectativas."
+Envolvimento nas Revisões de Sprint: "O Product Owner participa da Revisão de Sprint, para revisar o trabalho desenvolvido e discutir a próxima coisa mais valiosa a ser feita.”
+Atualização Contínua do Backlog: "À medida que o trabalho é realizado, o novo trabalho pode ser planejado e estimado com o Product Owner e o Time de Desenvolvimento colaborando no refinamento do Backlog do Produto."

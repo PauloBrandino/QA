@@ -1,0 +1,23 @@
+Desafios da mudança
+
+Pontos mais importantes sobre a organização das equipes ágeis nas empresas.
+É importante entender que a teoria e a prática podem ter suas diferenças e existem problemas recorrentes nessa etapa de organização de equipes.
+Revisão de Scrum e Kanban
+
+Scrum:
+
+Divide o trabalho em iterações chamadas sprints, geralmente de 2 a 4 semanas.
+Tem papéis definidos, como Scrum Master, Product Owner e equipe de desenvolvimento.
+Possui reuniões específicas, como Daily Scrum, Sprint Planning, Sprint Review e Sprint Retrospective.
+Kanban:
+
+Oferece um fluxo contínuo de trabalho, sem iterações fixas.
+Não impõe papéis específicos, permitindo maior flexibilidade nas responsabilidades.
+Foca na visualização do fluxo de trabalho por meio de um quadro Kanban, com colunas representando os estágios do processo.
+Alterações que ocorreram no Scrum Guide e que tem direta implicação na organização das equipes ágeis
+
+Reorganização da equipe: O Scrum Team foi reorganizado para incluir apenas três papéis: Scrum Master, Product Owner e Developers.
+Tamanho da equipe: Time pode ter no máximo 10 pessoas (incluindo PO e SM).
+Independência da equipe: o Scrum Team foi declarado como uma equipe autônoma.
+Papel do scrum master: A mudança da descrição do papel da pessoa Scrum Master de líder servidor para "uma líder que serve" foi uma das mudanças mais significativas do Scrum Guide 2020.
+Papel do product owner: O Product Owner pode realizar o trabalho de gestão do Product Backlog ou pode delegar a responsabilidade para outros.
