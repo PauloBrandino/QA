@@ -1,3 +1,0 @@
-A arquitetura de um sistema consiste na definição dos componentes, suas propriedades e seus relacionamentos com outros softwares. A documentação da arquitetura do software facilita a comunicação entre os membros dos times, pois registra as decisões iniciais acerca do projeto;
-Temos que definir um escopo de testes, já que nem todos os testes serão responsabilidade da pessoa de QA;
-Constrói-se um escopo respondendo a perguntas importantes como: o que ele deixa de fora? Quais níveis de teste vão ser executados? De quem será a responsabilidade de cada teste? Haverá testes automatizados? Quais serão as ferramentas usadas e como será feito o lançamento desse sistema?
