@@ -1,4 +1,4 @@
-import { AppError, Status } from './ErrorHandler.js'
+import { AppError, Status } from '../error/ErrorHandler.js'
 
 export default async (error, req, res, next) => {
   if (error instanceof AppError) {
